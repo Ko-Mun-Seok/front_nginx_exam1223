@@ -26,12 +26,12 @@ main{
     text-decoration: none;
 }
 
-#border-list{
+#board-list{
     width: 700px;
     margin: 10px auto;
 }
 
-#border-list, #border-list th, #border-list td {
+#board-list, #board-list th, #board-list td {
     border: 1px solid;
     border-collapse: collapse;
 }
